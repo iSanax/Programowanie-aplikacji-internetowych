@@ -1,0 +1,110 @@
+#contener{
+    background: #ededed;
+    height: 100%;
+    width: 100%;
+}
+.body
+{
+    font-family: calibri;
+}
+header{
+    background: #527bd1;
+}
+.myLogo{
+    padding: 20px;
+}
+
+.nav_1{
+    height: 5%;
+    background: #f39b18;
+}
+
+a{
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+.myMain{
+    width: 100%;
+    height: 460px;
+    background-color: rgb(32, 214, 199);
+}
+
+.myForm{
+    float:left;
+    width: 30%;
+    height: 460px;
+    background-color: #05aa05;
+}
+
+article{
+    float:left;
+    width: 350px;
+    height: 300px;
+    background-color: #fce4d6;
+    position: relative;
+	left: 120px;
+    top: 30px;
+    padding: 10px;
+}
+
+.naglowek3{
+    float:left;
+    width: 350px;
+    height: 300px;
+    background-color: #fce4d6;
+    position: relative;
+	top: 30px;
+	left: 250px;
+}
+
+.nagl1{
+    background-color: #fce4d6;
+    padding-top: 10px;
+}
+section{
+    float:left;
+    padding: 5px;
+    width: 100px;
+}
+.nagl3{
+    float:left;
+    position: relative;
+    background-color: #fce4d6;
+}
+.nagl4{
+    clear:both;
+    
+}
+
+article, p{
+    margin-left: 10px;
+}
+button{
+    position: right;
+    margin-left: 280px;
+    clear:both;
+}
+
+#LogoNag{
+    width: 150px;
+    position: right;
+    position: relative;
+    margin-left: 180px;
+}
+
+footer{
+    clear:both;
+    text-align: center;
+    background-color: #91096f;
+    height: 50px;
+    padding: 10px;
+}
+.footerArticle{
+    background-color: #fce4d6; 
+}
+form{
+    padding: 10px;
+}
+label,input {
+    display: block;
+}
