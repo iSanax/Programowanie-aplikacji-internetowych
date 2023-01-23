@@ -1,0 +1,22 @@
+[class *="containe"]{
+    background: rgb(5, 207, 49);
+    border: 3px;
+    padding: 4px;
+    text-align: center;
+    
+}
+
+.button_section{
+    display: flex;
+    align-items: center;
+    background: rgb(180, 2, 171);
+    border-color: black;
+    font-weight: bold;
+    height: 75px;
+}
+
+[class *="col-"]{
+    background: rgb(240, 3, 3);
+    border-color: black;
+    height: 50px;
+}
